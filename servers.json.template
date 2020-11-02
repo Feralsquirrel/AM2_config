@@ -15,17 +15,6 @@
       }
     ],
     "mods": [
-      "!Workshop\\@ACE Compat - RHS Armed Forces of the Russian Federation",
-      "!Workshop\\@ACE Compat - RHS United States Armed Forces",
-      "!Workshop\\@ACE Compat - RHS- GREF",
-      "!Workshop\\@CBA_A3",
-      "!Workshop\\@Enhanced Movement",
-      "!Workshop\\@RHSAFRF",
-      "!Workshop\\@RHSGREF",
-      "!Workshop\\@RHSUSAF",
-      "!Workshop\\@Task Force Arrowhead Radio (BETA!!!)",
-      "!Workshop\\@Zeus Enhanced",
-      "!Workshop\\@ace"
     ],
     "motd": null,
     "number_of_headless_clients": "3",
